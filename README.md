@@ -1,6 +1,4 @@
 # Employee_Attrition_Analysis
-# Employee Attrition Analysis
-
 ## Overview
 This project performs a comprehensive analysis of employee attrition using a provided Excel dataset. The primary goal is to identify patterns, correlations, and potential root causes of employee turnover, both at an organizational level and specifically for high-attrition job roles.
 
